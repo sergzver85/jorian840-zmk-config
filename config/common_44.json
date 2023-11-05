@@ -1,4 +1,6 @@
 {
+  "id": "common_44",
+  "name": "common_44",
   "layouts": {
     "LAYOUT": {
       "layout": [
@@ -48,5 +50,6 @@
         { "row": 0, "col": 43, "r": 0, "x": 13.005, "y": 3.259 }
       ]
     }
-  }
+  },
+  "sensors": []
 }
